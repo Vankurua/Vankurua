@@ -1,6 +1,8 @@
 ### Hi there 👋   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vankurua)](https://github.com/anuraghazra/github-readme-stats)
-this is Vankurua   
+[![Vankurua's github stats](https://github-readme-stats.vercel.app/api?username=Vankurua&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+this is Vankurua
+
 I am a salty fish...  
 Follow me on [twitter](https://twitter.com/Vankurua)
 -🌱 I’m currently learning [swift](https://github.com/apple/swift)   
