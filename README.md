@@ -1,12 +1,9 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vankurua&show_icons=true"/>
 this is Vankurua
-
 I am a salty fish...
-
 Follow me on [twitter](https://twitter.com/Vankurua)
-
--I’m currently learning [swift](https://github.com/apple/swift)
+- I’m currently learning [swift](https://github.com/apple/swift)
 <!--
 **Vankurua/Vankurua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
