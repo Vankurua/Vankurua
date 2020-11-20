@@ -1,6 +1,6 @@
 ### Hi there 👋
-this is Vankurua 
-I am a salty fish...
+this is Vankurua   
+I am a salty fish...  
 Follow me on [twitter](https://twitter.com/Vankurua)
 
  🌱 I’m currently learning swift
